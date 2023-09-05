@@ -1,0 +1,2 @@
+# ignore the .ipynb_checkpoints in all the directories
+INFO-H500/**/.ipynb_checkpoints/
